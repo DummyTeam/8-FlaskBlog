@@ -271,3 +271,8 @@ fabric.properties
 # End of https://www.gitignore.io/api/flask,python,pycharm
 run_server.bat
 run_server_2.bat
+.idea/#8 Blog App.iml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
